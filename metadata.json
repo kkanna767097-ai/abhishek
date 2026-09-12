@@ -1,0 +1,7 @@
+{
+  "name": "Hotel Sohail",
+  "description": "Official website for Hotel Sohail, Malakpet, Hyderabad – Famous for authentic Hyderabadi Dum Biryani, Shahi Haleem, Mutton Marag, Irani Chai, and Banquet Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
